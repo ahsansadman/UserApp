@@ -1,4 +1,4 @@
-# UserApp - A simple user data application to do CRUD operations with DJango Rest Framework
+# UserApp - A simple user data application to do CRUD operations with Django Rest Framework
 
 ## Requirements
 - Python 3.10.4
