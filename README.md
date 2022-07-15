@@ -1,9 +1,9 @@
 # UserApp - A simple user data application to do CRUD operations with DJango Rest Framework
 
 ## Requirements
-*Python 3.10.4
-*Django 4.0.6
-*Django Rest Framework
+- Python 3.10.4
+- Django 4.0.6
+- Django Rest Framework
 
 ## Installation
 After you cloned the repository, you want to create a virtual environment, so you have a clean python installation. You can do this by running the command
@@ -41,9 +41,9 @@ All the endpoints start with `http://127.0.0.1:8000/`. The endpoints are given b
 ## Running the server
 To run the server user the commands below -
 ```
-    python manage.py makemigrations
-    python manage.py migrate
-    python manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
 ```
 
 ## Testing
